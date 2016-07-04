@@ -1,6 +1,7 @@
 package com.example.hanta.voluncouver;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
@@ -25,6 +26,8 @@ public class Login extends ActionBarActivity {
             });
 
     }
+
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
