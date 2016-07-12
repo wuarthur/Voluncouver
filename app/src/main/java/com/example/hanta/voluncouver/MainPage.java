@@ -7,6 +7,7 @@ import android.support.v7.app.ActionBarActivity;
 import android.view.View;
 import android.widget.Button;
 
+
 public class MainPage extends ActionBarActivity {
 
     @Override
